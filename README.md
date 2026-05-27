@@ -83,7 +83,7 @@ Some of my areas of interest include:
 
 ## 📫 Contact
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [Segiraldo0610](https://github.com/Segiraldo0610)
 - LinkedIn: [Samuel Giraldo](https://www.linkedin.com/)
 - Email: giraldosabogalsamuel@gmail.com
 
