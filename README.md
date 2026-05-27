@@ -84,7 +84,7 @@ Some of my areas of interest include:
 ## 📫 Contact
 
 - GitHub: [Segiraldo0610](https://github.com/Segiraldo0610)
-- LinkedIn: [Samuel Giraldo](https://www.linkedin.com/)
+- LinkedIn: [Samuel Giraldo](https://www.linkedin.com/in/samuel-giraldo-351a93411/)
 - Email: giraldosabogalsamuel@gmail.com
 
 ---
