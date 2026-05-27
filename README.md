@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👨‍💻 Samuel Giraldo
 
-<!--
-**Segiraldo0610/Segiraldo0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Student | Pontificia Universidad Javeriana
 
-Here are some ideas to get you started:
+Hi! I'm **Samuel Giraldo**, an engineering student at **Pontificia Universidad Javeriana** with experience in different programming languages and a strong interest in technology, software development, cloud architecture, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how systems work, building solutions through code, and improving my skills in programming, algorithms, data analysis, software design, and scalable computing environments.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering student at **Pontificia Universidad Javeriana**
+- 💻 Passionate about programming, technology, and software development
+- ☁️ Interested in **cloud architecture**, scalable systems, and distributed computing
+- 🧠 Focused on solving problems through logical and creative thinking
+- 📊 Experience with data analysis and computational tools
+- 🤝 Open to teamwork, collaboration, and continuous learning
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+## 💡 What I Can Do
+
+- Develop programs using **Python, C++, Java, and R**
+- Apply programming logic to solve academic and practical problems
+- Work with basic data structures and algorithms
+- Analyze and visualize data using computational tools
+- Create simple software solutions based on engineering requirements
+- Work with databases and structured information
+- Understand the fundamentals of **cloud-based architectures**
+- Explore concepts related to **distributed systems**, scalability, and system reliability
+- Learn and adapt quickly to new programming languages, tools, and technologies
+
+---
+
+## ☁️ Cloud Architecture & Distributed Systems
+
+I am especially interested in how modern applications are designed, deployed, and scaled using cloud-based environments. I enjoy learning about the way distributed systems communicate, process information, and maintain reliability across different components.
+
+Some of my areas of interest include:
+
+- Cloud computing fundamentals
+- Scalable software architectures
+- Distributed systems
+- System communication and reliability
+- Backend development
+- Data processing and storage
+- Infrastructure and deployment concepts
+
+---
+
+## 📚 Areas of Interest
+
+- Software Engineering
+- Cloud Architecture
+- Distributed Systems
+- Data Science
+- Artificial Intelligence
+- Web Development
+- Algorithms
+- Databases
+- Engineering and Technology Projects
+
+---
+
+## 📈 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [Samuel Giraldo](https://www.linkedin.com/)
+- Email: giraldosabogalsamuel@gmail.com
+
+---
+
+### ⚡ Always learning, building, and improving.
